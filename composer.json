@@ -1,0 +1,22 @@
+{
+  "name": "lramos/wp-support",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Lucas Ramos",
+      "email": "lucas_ramos1994@hotmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Support\\ACF\\": "ACF/",
+      "Support\\Components\\": "Components/",
+      "Support\\Contracts\\": "Contracts/",
+      "Support\\Helpers\\": "Helpers/"
+    }
+  }
+}
