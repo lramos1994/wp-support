@@ -1,0 +1,11 @@
+{
+    "name": "lramos/wp-support",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lucas Ramos",
+            "email": "lucas_ramos1994@hotmail.com"
+        }
+    ],
+    "require": {}
+}
